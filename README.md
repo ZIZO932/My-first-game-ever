@@ -1,6 +1,7 @@
 # My First Game Everr 
 
-A simple game I made following the tutorial for organizing Haven in my cityyy.
+A simple game I made following the tutorial for organizing Haven in my cityyy where 
+u play as a small character and move through a simple level jumping over obstacles and trying to make it to the end.
 
 ## How to Play
 
